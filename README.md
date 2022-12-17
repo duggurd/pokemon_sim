@@ -16,3 +16,7 @@ Part 2 - creating a cool UI/Interface
 - Different settings for initial state.
 - Increase/decrease mutation rate.
 - Choose min-max stats, types etc. pokemon to be generated.
+
+Resources:
+- https://pokeapi.co/
+- https://bulbapedia.bulbagarden.net/wiki/Main_Page
